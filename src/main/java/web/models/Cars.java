@@ -10,7 +10,7 @@ public class Cars {
     }
 
 
-    public void setMark(int id) {
+    public void setMark(String mark) {
         this.mark = mark;
     }
 
